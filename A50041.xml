@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A reply to John Colebatch, upon his late piece concerning the curing the biting of a viper by acids by Charles Leigh ...</title>
+            <author>Leigh, Charles, 1662-1701?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50041</idno>
+            <idno type="STC">Wing L978</idno>
+            <idno type="STC">ESTC R17675</idno>
+            <idno type="EEBO-CITATION">12348235</idno>
+            <idno type="OCLC">ocm 12348235</idno>
+            <idno type="VID">59913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50041)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 215:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A reply to John Colebatch, upon his late piece concerning the curing the biting of a viper by acids by Charles Leigh ...</title>
+                  <author>Leigh, Charles, 1662-1701?</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and sold by John Shelmerdine ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In answer to Sir John Colbatch's A relation of a very sudden and extraordinary cure, 1698.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Colbatch, John, --  Sir, 1670-1729. --  Relation of a very sudden and extraordinary cure.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59913:1" rendition="simple:additions"/>
+            <p>A REPLY TO <hi>John Colebatch,</hi> Upon his Late PIECE, CONCERNING The Curing the Biting of a Viper by <hi>Acids.</hi>
+            </p>
+            <p>By <hi>Charles Leigh,</hi> Doctor of Phyſick.</p>
+            <p>
+               <hi>LONDON,</hi> Printed; and Sold by <hi>John Shelmer dine,</hi> Bookſeller in <hi>Mancheſter.</hi> 1698.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59913:2"/>
+            <pb facs="tcp:59913:2"/>
+            <head>To the Reader.</head>
+            <p>IT is not in my Nature to treat any of the Fa<g ref="char:EOLhyphen"/>culty of Phyſick, as perhaps you may find in the following Lines, nor had I now done it, had not the Affronts offer'd upon all Societies of Learning, and Phyſicians, commanded it: For in<g ref="char:EOLhyphen"/>deed, when all Mankind, except thoſe that tread in his unwarrantable Paths, are blackn'd with the odious Characters of Fraud and Ignorance, in this Caſe what Returns cou'd be made? From thoſe Aſperſions we muſt either quit our ſelves, (and if ſo, I'm ſure when we retort upon him, 'tis as im<g ref="char:EOLhyphen"/>poſſible to give a true Account of the Pretender, without ſome Sting of Satyr, as to deſcribe the Fu<g ref="char:EOLhyphen"/>ry of a Lion, without deſcribing his hideous Yells, and unmerciful Talons,) or elſe we muſt ſubmit to his wild Notions; and if ſo, it's then evident we are the worſt of Men, and merit not the Chara<g ref="char:EOLhyphen"/>cters of Phyſicians. Wherefore to ſet things in their proper Light, that the true Air of the Spark may be taken to the Life, I cou'd not but intermix fre<g ref="char:EOLhyphen"/>quent Shadows to ſcreen his infatuating and allu<g ref="char:EOLhyphen"/>ring Beams, leaſt theſe ſhould lead us into farther Errors. But methinks he of all Perſons had the
+<pb facs="tcp:59913:3"/>leaſt Reaſon to Quarrel with Eminent and Regular Phyſicians, (who I doubt not may challenge equal Fame with the moſt Learned in the World,) that he, I ſay, who like a <hi>Soland</hi> Gooſe, can but, chal<g ref="char:EOLhyphen"/>lenge an Equivocal Generation, (for as one from the Plank, ſo the other dropp'd from the Mortar,) ſhou'd trample on Mankind, is not a vulgar Prodigy, and therefore commanded a Return according. I do proteſt I have no perſonal Prejudice againſt him, for as yet I never ſaw the Man, and ſo could have no premeditated Quarrel: But when I ſaw ſuch Falſe and Dangerous Poſitions tranſmitted to Poſte<g ref="char:EOLhyphen"/>rity, and the reſt of my Brethren ſo horribly blackn'd, I thought it high time, in Juſtice to Mankind, and our own Vindication, to put a Stop to this impetu<g ref="char:EOLhyphen"/>ous Torrent.</p>
+            <p>The Doctrine of <hi>Acids</hi> hath from the <hi>Aegy<g ref="char:EOLhyphen"/>ptians, Arabick, Grecian, German, Italian,</hi> and <hi>French</hi> Phyſicians, been tranſmitted to us as of great uſe in Phyſick, when proper Symptoms in<g ref="char:EOLhyphen"/>dicate, but never, till now, made a <hi>Panacaea,</hi> but indeed the Cauſe of too many Diſtempers, as may be obſerved in the <hi>Exercitationes Quinque,</hi> lately printed at <hi>Oxford,</hi> and the enſuing Lines; wherefore I ſhall not recapitulate, but to thoſe referr the Curious. As theſe are not writ for any other Intent, but for the true Information of Matters, to the preſent and ſucceeding Ages, if they have this Effect, it is the utmoſt of my Ambition; for as for my part, I would neither be cramp'd with the Do<g ref="char:EOLhyphen"/>ctrine
+<pb facs="tcp:59913:3"/>of <hi>Acid,</hi> or <hi>Alkali,</hi> ſince a Phyſician that confines himſelf to thoſe Two, reſigns up his Liber<g ref="char:EOLhyphen"/>ty of Thinking, and ſhuts himſelf up in a Pinfold. The Faculty of Phyſick is of far greater extent; wherefore I could wiſh my Brethren wou'd apply themſelves to the true Knowledge of Experimental Learning in all its ſeveral Branches, then they will eaſily ſee how Inſufficient theſe Two are to explain all the <hi>Phaenomena</hi> of Nature: But till this be done with the utmoſt Application, we cannot ex<g ref="char:EOLhyphen"/>pect any conſiderable Improvement in that Faculty. But, alas! we are too prone to crowd our Heads with a Landskip of it in a voluminous Theory, take Matters upon Truſt, and never examine into the true nature of Things: And whilſt Matters are thus manag'd, we give too juſt Reaſons to our Adverſaries to calumniate us; for indeed only knowing Phyſick at this rate, is but like writing an Account of a Country by ſuperficial Glances o'er ſome Map or other, and ſo perhaps by that Method form ſome unpoliſh'd Idea's of the Shell, but never penetrate the Kernel. I will not now treſpaſs far<g ref="char:EOLhyphen"/>ther upon your Patience, but ſubſcribe my ſelf</p>
+            <closer>
+               <signed>Your Humble, Servant, C. L.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:59913:4"/>
+            <head>To the moſt noted Pretender, in anſwer to thoſe to the moſt unknown <hi>Colebatch,</hi> upon his ſeveral Tracts.</head>
+            <l>WHat! Shall we ſtill be tortur'd with the Tool?</l>
+            <l>A Dull, Amphibious, yet Aſpiring Fool!</l>
+            <l>Shall his ill Notions ſtill the <hi>Codrus</hi> be?</l>
+            <l>And Truth in obſcure Shades ſtill masked lie?</l>
+            <l>Awake my Muſe, and now thy Choler vent</l>
+            <l>On him, of Nonſence but the Sediment.</l>
+            <l>
+               <hi>Phyſick,</hi> before thy wicked <hi>Theſis</hi> came</l>
+            <l>Abroad abortive, had a glorious Name;</l>
+            <l>But ſince thy ſour Chimera's took their Birth,</l>
+            <l>A wild Deſtruction hovers o'er the Earth:</l>
+            <l>But, Heaven be prais'd! too well we Mortals ſee,</l>
+            <l>Not by Diſeaſes, but we die by thee.</l>
+            <l>If with thy vappy Lines we did but join,</l>
+            <l>Sure was our Fate, as Infamy is thine.</l>
+            <l>He like a Fool attempts the gilded Oar,</l>
+            <l>We graſp'd at <hi>Juno,</hi> but a gloomy Shower</l>
+            <l>We caught, a Cheat the like ne'er known before.</l>
+            <l>Let then the Quack raiſe his Olympick Duſt,</l>
+            <l>And 'gainſt <hi>Apollo</hi>'s Sons his Venom caſt:</l>
+            <l>With Scorn they laugh but at his eaſie Dart,</l>
+            <l>For whilſt he writes he only feels the Smart.</l>
+            <l>Thy nauſeous Poet is to me unknown,</l>
+            <l>But ſure of <hi>Grubſtreet</hi> an accompliſh'd Son.</l>
+            <l>Do then but once allow Mankind to think,</l>
+            <l>And let <hi>Lethaean</hi> Streams compoſe the Ink</l>
+            <l>That writ thoſe Lines, this Happineſs we have,</l>
+            <l>We ſhall not then die Martyrs to the Grave.</l>
+            <l>I'll therefore now diſpatch my injur'd Muſe,</l>
+            <l>And in rough Proſe the Emp'rick accuſe.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="7" facs="tcp:59913:4"/>
+            <opener>
+               <salute>Worthy SIR,</salute>
+            </opener>
+            <p>WITH all the Tenderneſs imaginable I accoſt you, for tho' you ſtile your ſelf a Member of the College, yet ſince I find you ſuch a weak one, and ſo thoroughly before confuted, and ſince theſe laſt Squeaks you make are only with your baffl'd Forces begging Quarter, ſhall fairly examine what you have urg'd afreſh in this Treatiſe, and had you not again aſſerted an univerſal Regimen of <hi>Acids,</hi> the Owl ſhould have perch'd ſole Monarch in his Crab-Tree: Wherefore I ſhall begin with your Expe<g ref="char:EOLhyphen"/>riments of the Viper; but before I enter upon it, be pleas'd to let me return up<g ref="char:EOLhyphen"/>on you the Expreſſion of that moſt inge<g ref="char:EOLhyphen"/>nious Lady, <hi>A. B.</hi>
+            </p>
+            <q>That Reaſon was the Eternal Stan<g ref="char:EOLhyphen"/>dard, which God Almighty, as a Ray
+<pb n="8" facs="tcp:59913:5"/>of his own Image, hath impreſſed on Man, to the election or diſlike of what may hurt or ſuccour him, and where this is rais'd and improv'd, makes him an Angel; but where ſunk and depreſs'd, a groveling Brute.</q>
+            <p>Now, Sir, if upon Examination of the whole Matter, you be forced to ſink to the loweſt Ebb of Reaſon, it will then from this follow, you are but the Mon<g ref="char:EOLhyphen"/>key of her moſt ingenious Father, or that long ear'd Animal that never ſpoke but once to <hi>Baalam.</hi>
+            </p>
+            <p>In the firſt Pages of your Treatiſe, you give us an Account of one <hi>Philipſon</hi> that was bit by a Viper, and of giving <hi>Acids,</hi> as <hi>Elixir Vitrioli,</hi> in the beginning of the Diſtemper. Now by the bye, let me tell you, that if <hi>Elixir Vitrioli</hi> be truly pre<g ref="char:EOLhyphen"/>par'd, it cannot properly be called an <hi>Acid,</hi> but rather a <hi>Neutral</hi> Spirit; in that Preparation a <hi>Vinous</hi> Spirit and an <hi>Acid</hi> being ſtrictly united, and ſo conſequent<g ref="char:EOLhyphen"/>ly not purely an <hi>Acid:</hi> That which is prepar'd by <hi>Vigani,</hi> which I take to be the beſt I have any where ſeen, will ſcarce
+<pb n="9" facs="tcp:59913:5"/>ferment with an <hi>Alkali;</hi> ſo that the firſt Preſcription no ways corroborates your Notion of <hi>Acids,</hi> tho' it is true, from a Mixture of that, and Spirit of Harts<g ref="char:EOLhyphen"/>horn, will quickly ariſe Clouds; and the ſame may be obſerved by holding them cloſe together, tho' in diſtinct Vials; but the Motion in the Mixture of the Liquors is ſcarce diſcernible, whence it is plain the <hi>Acid</hi> produced not thoſe Effects in the Bite of the Viper, by ſo powerfully de<g ref="char:EOLhyphen"/>ſtroying the <hi>Alkali's.</hi>
+            </p>
+            <p>Your next Preſcription I find to be <hi>E<g ref="char:EOLhyphen"/>lixir Vitrioli</hi> 
+               <g ref="char:dram">ʒ</g>ij, <hi>Rectify'd Spirit of Wine two Ounces.</hi> Now, Sir, it is moſt cer<g ref="char:EOLhyphen"/>tain the Points of the <hi>Acid</hi> in this Preſcrip<g ref="char:EOLhyphen"/>tion are ſo ſheathed in the <hi>Vinous</hi> Spirit, that a greater Corrector of <hi>Acids</hi> cannot be thought of; for Spirit of Nitre it ſelf we find by this Method to become a ſafe and good Medicine, by deſtroying the <hi>Acid:</hi> Whence it's plain, what was effe<g ref="char:EOLhyphen"/>cted by this Medicine, cou'd not be by its <hi>acidity,</hi> that being deſtroyed before by the Mixture. Your next Preſcriptions are <hi>Infuſions of Rue, Snakeweed, Ange<g ref="char:EOLhyphen"/>lica,
+<pb n="10" facs="tcp:59913:6"/>Butter-bur, &amp;c.</hi> Which from the ancient Phyſicians to theſe very Days, have always been found to have been Alexipharmacs or Counter-poyſons, and in thoſe Caſes uſed with ſucceſs: Muſt therefore a little Addition of White-wine and Vinegar, which is what <hi>J. C.</hi> adds, be the Specifik? or the noble Herbs be<g ref="char:EOLhyphen"/>fore recited? If the latter, by the ſame Reaſon I might as well argue, that if I happen'd to give an <hi>acid</hi> Spirit with the <hi>Cortex</hi> in intermitting Fevers, the Cure was not compleated by the <hi>Cortex</hi> but the <hi>Acid,</hi> which I think none but <hi>Colebatch</hi> will affirm; and if ſo, the <hi>Acids</hi> contri<g ref="char:EOLhyphen"/>buted no farther here, perhaps than to allay the Heat of the Patient; for I am pretty well ſatisfy'd, no Man that conſi<g ref="char:EOLhyphen"/>ders what a powerful Diaphoretick Snake<g ref="char:EOLhyphen"/>weed is, and conſequently fine's the Blood, and how again <hi>Acids</hi> fix it, I ſay, no Man in his Senſes that conſiders theſe things, can affirm their Virtues to conſiſt in <hi>acidity,</hi> but quite contrary in <hi>oleaginous, alkalious</hi> Particles; and if ſo, it's plain that <hi>Acids</hi> little or nothing contributed
+<pb n="11" facs="tcp:59913:6"/>to the Cure in the recited Caſe: For did <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Virtues of theſe Sudorificks conſiſt in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n <hi>Acidity,</hi> how comes it to paſs? Thoſe which are really <hi>Acids,</hi> as Spirit of Vi<g ref="char:EOLhyphen"/>triol, Sulphur, and the vegetable <hi>Acids,</hi> as <hi>Lujula, Berberis, &amp;c.</hi> are not Diapho<g ref="char:EOLhyphen"/>reticks. Since then the Virtue of the re<g ref="char:EOLhyphen"/>cited Herbs conſiſts in the Evacuations they make in the miliary Glands by Sweat, it's plain what is effected by them muſt be by their <hi>oleaginous</hi> and <hi>volatile</hi> Particles, which may by due Preparati<g ref="char:EOLhyphen"/>ons be prepar'd from all of them.— Since their Oils are Diaphoretical, and their <hi>Acids,</hi> if they have any, quite con<g ref="char:EOLhyphen"/>trary, muſt we then becauſe thoſe Plants contain an <hi>Acid</hi> which is not Diaphore<g ref="char:EOLhyphen"/>tical, and an Oil which is, conclude the Virtue of the Plant conſiſts in the Oil or the <hi>Acid?</hi> If in the latter, becauſe at the fame time the <hi>Goa</hi> Stone, or <hi>Bezoar,</hi> and Juice of Limons to acidulate as Ju<g ref="char:EOLhyphen"/>lips are preſcrib'd, does it thence follow becauſe an <hi>Acid</hi> is only added to alleviate Thirſt, the Cure was effected by the <hi>Be<g ref="char:EOLhyphen"/>zoardick</hi> or the <hi>Acids?</hi> If with the lat<g ref="char:EOLhyphen"/>ter,
+<pb n="12" facs="tcp:59913:7"/>he may as well tell me becauſe the Grand Signior conſtantly drinks Sherbet, and Coffee, eats all the Delicacies of the Eaſtern Countries, as Pine-Apples, Pa<g ref="char:EOLhyphen"/>tridge, Mutton, Veniſon, <hi>&amp;c.</hi> is not nou<g ref="char:EOLhyphen"/>riſhed by that generous Food, but with a little Vinegar which happen'd to be mix'd with the Sauce. As for my part, I nei<g ref="char:EOLhyphen"/>ther pity nor envy <hi>J. C.</hi> For as no E<g ref="char:EOLhyphen"/>mulation of him can be an Object of my Ambition, ſo his wilful and elaborate Ignorance cannot merit the former: With what an unparallell'd Impudence then does he brow-beat the whole Body of Phyſicians, and in plain Terms makes them all Knaves or ignorant Pretenders! But, God be thank'd, the World by a large Experience hath ſufficiently found the contrary, which is the beſt Demon<g ref="char:EOLhyphen"/>ſtration againſt an ignorant Pretender.</p>
+            <p>He tells in one place, he never was a Member of the Univerſity, and in that I very readily believe him; and I am ſure, had he never been a Member of the College, it had added to the Honour of the Faculty of Phyſick. His Reaſonings againſt <hi>Le<g ref="char:EOLhyphen"/>mery</hi>
+               <pb n="13" facs="tcp:59913:7"/>are as rude as empty, for in the bi<g ref="char:EOLhyphen"/>ting of Vipers it's certain there is a ſud<g ref="char:EOLhyphen"/>den Coagulation of the Blood; and if ſo, the Poiſon cannot proceed from Vo<g ref="char:EOLhyphen"/>latile, Alkalious Salts, ſince by a Mixture of thoſe with the Blood, it is certain the Blood is always more fluid, and pre<g ref="char:EOLhyphen"/>vented from Coagulation: And if ſo, <hi>J. C</hi>'s Notion falls to the Ground.</p>
+            <p>What then is become of that Ray of Reaſon God Almighty imprinted into him? I am ſure, to abuſe that, and tranſ<g ref="char:EOLhyphen"/>mit falſe Notions down to Poſterity, is a Wickedneſs unaccountable, and deſerves a ſeverer Puniſhment than the Statutes of a College can inflict.</p>
+            <p>And I ſpeak it without Prejudice, he is much fitter for a Bar than a Patient; wherefore I ſhall diſmiſs him upon this Point, and proceed to his other Particu<g ref="char:EOLhyphen"/>lars; and to uſe his own words, how Hea<g ref="char:EOLhyphen"/>then Greek may ſound to him, I know not, for I think he is as much an Hea<g ref="char:EOLhyphen"/>then as a Graecian; but <hi>Currat Lex,</hi> would be a juſt Motto upon him.</p>
+            <q>
+               <pb n="14" facs="tcp:59913:8"/>
+               <bibl>
+                  <hi>Pag.</hi> 22.</bibl> I believe I may boldly ſay it is the beſt and cleareſt Hypotheſis in Phyſick now Extant, and upon the Foundation of which a Man may with the greater Certainty attempt the Cure of moſt Diſeaſes, than upon any other that hath yet been made publick.</q>
+            <p>If this be ſo, I wonder the Preſident reſigns him not his Chair, ſince here is not only a bold Defiance to that Society, but to all others whatever. But the ſhal<g ref="char:EOLhyphen"/>loweſt Brooks run loudeſt, and the Puny Mouſe is the Off-ſpring of a Mountain.</p>
+            <q>
+               <bibl>In his Anſwer to Dr. <hi>Tuthill, pag.</hi> 23.</bibl> I have a greater Eſteem for you than thoſe Scoundrels that have heretofore appeared in Print againſt me.</q>
+            <p>If you eſteem me one of them, I thank you for your Complement, for be aſſured it's the greateſt Favour you cou'd do me, for ſhou'd he, that upon trifling, and falſe Notions had impoſed upon all So<g ref="char:EOLhyphen"/>cieties of Learning, and arrogated to himſelf a Knowledge above all Mankind, and at the ſame time but a meer Preten<g ref="char:EOLhyphen"/>der, have treated me in another Dialect,
+<pb n="15" facs="tcp:59913:8"/>it might perhaps have call'd in Queſtion all the little Learning I dare pretend to; for when I conſider the wonderful Works of Nature, I am far from Dogmatical Aſ<g ref="char:EOLhyphen"/>ſertions, but only in my own Judgment offer the moſt probable Conjectures.</p>
+            <q>
+               <bibl>
+                  <hi>Pag.</hi> 24.</bibl> And in very many Con<g ref="char:EOLhyphen"/>ſumptive Caſes it is uſual for the Pa<g ref="char:EOLhyphen"/>tient to ſpit up perfect Chalk, and that in great Quantities.</q>
+            <p>In what Conſumptive Caſes? In none that I have yet met with, but the Spit<g ref="char:EOLhyphen"/>ting has been either Sweet, Acid, Auſtere, Bitter, or Putrid, none of which are In<g ref="char:EOLhyphen"/>dications of Chalk: But ſuppoſe ſuch Chalky Matter was ſometimes lodg'd in the Lungs, when the Stone or Gout is concomitant, it's plain then from the Arguments before recited by Dr. <hi>Covard,</hi> and thoſe in the <hi>Exercitationes quinque,</hi> that the Blood in that Caſe is degenera<g ref="char:EOLhyphen"/>ted into too Saline a Craſis, and Preci<g ref="char:EOLhyphen"/>pitates too great a quantity of <hi>Alkali</hi> from the Blood, which indeed makes a kind of Magiſtery. By which it is plain the Blood in thoſe Caſes abounds more
+<pb n="16" facs="tcp:59913:9"/>with <hi>Acid</hi> than <hi>Alkalious</hi> Particles, and I am ſure the trueſt Method in thoſe Di<g ref="char:EOLhyphen"/>ſtempers is either by <hi>Alkalious</hi> or <hi>Balſa<g ref="char:EOLhyphen"/>mick</hi> Medicines.</p>
+            <p>What a Wickedneſs therefore muſt it be in <hi>John Colebatch,</hi> to impoſe ſuch Dan<g ref="char:EOLhyphen"/>gerous Practice upon Mankind, which I am certain can centre in nothing but the Ruin of the Patient? For I dare Chal<g ref="char:EOLhyphen"/>lenge him to produce one Inſtance, in a confirm'd Conſumption, where he re<g ref="char:EOLhyphen"/>cover'd the Patient purely by <hi>Acids.</hi> How do you make out in Conſumptive Per<g ref="char:EOLhyphen"/>ſons the Sweat to be <hi>Alkalious?</hi> Their Taſts are manifeſtly Saline, their Smells frequently like thoſe of the ſteams of Vinegar, which, if I am in my Senſes, are no Indications of <hi>Alkalies,</hi> but pre<g ref="char:EOLhyphen"/>ſume Senſe and Reaſon are as much ſtrangers to <hi>J.C.</hi> as his Scribling to Phy<g ref="char:EOLhyphen"/>ſick and Philoſophy. <q>
+                  <bibl>
+                     <hi>Pag.</hi> 34.</bibl> He runs down <hi>Pulv. è Chel.</hi> ♋ <hi>Comp. &amp; Sp. C. C.</hi> in Malignant Fevers, and afterwards affirms, if after the Exhibition of them any thing was done, Nature it ſelf de<g ref="char:EOLhyphen"/>ſerves the whole Honour, nothing in
+<pb n="17" facs="tcp:59913:9"/>the leaſt being to be attributed to the Medicine.</q> In Anſwer to this, I averr, that the laſt Winter I was concern'd with 300 Perſons in Peſtilential Fevers, of theſe there were not ſix that dy'd, which upon Occaſion I can make out, and conſtantly uſed the <hi>Pulv. è Chel. Goa Stone,</hi> and fre<g ref="char:EOLhyphen"/>quently <hi>Sp. C.C.</hi> And ſurely the Reco<g ref="char:EOLhyphen"/>very of ſo many cou'd not wholly be at<g ref="char:EOLhyphen"/>tributed to Nature: I uſed <hi>Acids</hi> very temperately, juſt to allay their Thirſt, but found that of themſelves, without the Aſſiſtance of <hi>Alkali,</hi> they only ſuffer'd the Patient to ſink inſenſibly. Which I think may ſerve as an Anſwer to that Point, and not let Mankind be ſo miſe<g ref="char:EOLhyphen"/>rably abus'd by ſuch Spurious Notions.</p>
+            <q>
+               <bibl>
+                  <hi>Pag.</hi> 41, 42, 43.</bibl> You aſſert the Life of Man is a Flame, and that becauſe the <hi>Phoſphorus</hi> is a Thing may be ob<g ref="char:EOLhyphen"/>tain'd from all Animal Subſtances, and that by ſtroaking the Back if a Cat in the dark, multitudes of ſmall flaſhes of Fire will follow ones Hand.</q>
+            <p>Certainly ſuch an Inference was never made before, and if Tranſmigration of
+<pb n="18" facs="tcp:59913:10"/>Souls be true, here is the cleareſt Demon<g ref="char:EOLhyphen"/>ſtration of it: So that now nothing leſs perhaps than the Life of a Man has taken its flight to the Cat's Back, and ſince ſo, for ought I know, the Cat, inſtead of Catterwauling, may Argue as well as <hi>Cole<g ref="char:EOLhyphen"/>batch,</hi> that ſo freely gave Life to her Half-Moons with no leſs than that of a Ra<g ref="char:EOLhyphen"/>tional Creature. By your Favour, Sir, becauſe the <hi>Phoſphorus</hi> can be extracted from all Animals, does it thence follow, the Life is in that? By the ſame Reaſon I may as well Argue the Life to conſiſt in <hi>Alkalies,</hi> ſince according to your own Conceſſions thoſe may be abundantly pre<g ref="char:EOLhyphen"/>par'd from all Animals; and if ſo, what then becomes of the Doctrine of <hi>Acids?</hi> For then to Attack theſe with ſharp-pointed <hi>Acids,</hi> wou'd be little leſs than Cutting of Throats. In what particularly Life conſiſts, I preſume Mankind, with<g ref="char:EOLhyphen"/>out bluſhing, may fairly own their Ig<g ref="char:EOLhyphen"/>norance; but an Ignorant Pretender will attempt any thing, and prove nothing. How do you make out in a living Animal the <hi>Phoſphorus</hi> is actually contain'd in the
+<pb n="19" facs="tcp:59913:10"/>Blood, ſince from the Blood and Urine of Animals it is only prepared by Putre<g ref="char:EOLhyphen"/>faction; but this Notion I confeſs may help the Quaker out at a dead lift, he eaſily now may tell us, what he means by the Light within him. <q>
+                  <bibl>
+                     <hi>Pag.</hi> 51.</bibl> I never cou'd ſee or hear of any one that hath ſeen any ſuch thing as either <hi>Vo<g ref="char:EOLhyphen"/>latile</hi> or fixt <hi>Alkaliſate</hi> Salt, that was any other way to be obtain'd out of Vegetable or Mineral Bodies, than from the Bodies after they had been calcin'd.</q> And who can help invincible Ignorance? For had you conſulted Monſieur <hi>du Cloſs,</hi> of the Mineral Waters in <hi>France,</hi> or the <hi>Tentamen Novum</hi> of the Mineral Waters in <hi>Lancaſhire,</hi> or the <hi>Philoſophical Tran<g ref="char:EOLhyphen"/>ſactions</hi> Printed about Twelve Years ago, you might in all theſe have found a large Deſcription of Natural <hi>Alkaliſate</hi> Salts, that were not made by Calcination, ei<g ref="char:EOLhyphen"/>ther of Mineral or Vegetable Bodies, and ſo conſequently not as you term them, the Excrements of Fire; but I think your ſelf may be very well ſtiled <hi>Inter Socra<g ref="char:EOLhyphen"/>ticos notiſſima foſſa Cinoedos.</hi>
+            </p>
+            <q>
+               <pb n="20" facs="tcp:59913:11"/>
+               <bibl>
+                  <hi>Pag.</hi> 52.</bibl> I think it may not be amiſs to inferr, that the <hi>Alkali</hi> to be found in Animal Subſtances, is the Excrements of their Fire.</q>
+            <p>Did ever any but a Lunatick lay down ſuch a Poſition? For were the <hi>Alkali</hi> of the Blood prepared by Conflagration, there muſt then in that, as in Plants, be a total Diſſolution of its whole Compa<g ref="char:EOLhyphen"/>ges, and conſequently there wou'd be no ſuch thing as a Living Animal. It's plain the <hi>Alkalious</hi> Parts of the Blood are ſepa<g ref="char:EOLhyphen"/>rated from it by proper Glandules, for the moſt part, as in the Liver and Reins, and not prepared by Conflagration. But he that can affirm ſuch Abſurdities as theſe, may aſſert any thing, and may if he pleaſe affirm there never was any ſuch thing as a Shadow made by the Gnomon of a Dial. But Logicians tells us, <hi>Contra Principia ne<g ref="char:EOLhyphen"/>gantem non eſt diſputandum;</hi> wherefore my Patience being quite tyr'd out in that Point, I diſmiſs him.</p>
+            <p>
+               <hi>Pag.</hi> 64. How do you make out, <hi>Al<g ref="char:EOLhyphen"/>kalies</hi> make the <hi>Serum</hi> of the Blood Gela<g ref="char:EOLhyphen"/>tinous, ſince in Blood-letting, by mixing
+<pb n="21" facs="tcp:59913:11"/>
+               <hi>Alkalies</hi> with the Blood, we obſerve it to be made more fluid, which cou'd not be, did <hi>Alkalies</hi> turn the Blood to a Gelly? In <hi>Pag.</hi> 70. How does it appear it is the <hi>Acid</hi> part of the Sulphur that ferments with an <hi>Acid,</hi> but rather the <hi>Oleaginous</hi> Par<g ref="char:EOLhyphen"/>ticles, ſince were it the former, Spirit of Sulphur wou'd ferment with Spirit of Sulphur, which is both falſe and abſurd, and a true Brat of <hi>Colebatch</hi>'s Genius. If it is not the <hi>Acid</hi> of the Sulphur that fer<g ref="char:EOLhyphen"/>ments with the <hi>Acid,</hi> what you offer is trifling and ridiculous, and no Anſwer at all to Dr. <hi>Tuthill</hi>'s Objection. Nor do you any ways make it appear the Virtues of Bitters conſiſt in an <hi>Acid,</hi> which till you fairly do, you ſtill ſtand charg'd with thoſe Objections: Bitterneſs in Plants I don't apprehend to conſiſt either in a pre<g ref="char:EOLhyphen"/>dominancy of <hi>Alkali</hi> or <hi>Acid,</hi> but in a par<g ref="char:EOLhyphen"/>ticular Mixture of different Bodies, which by Calcination, or Diſtillation is deſtroy'd, ſo that no Preparation from a bitter Plant will by any ſuch Method, (<hi>viz.</hi>) Diſtilla<g ref="char:EOLhyphen"/>tion or Calcination, ever anſwer the Ver<g ref="char:EOLhyphen"/>tue of the Vegetable; ſo that what he
+<pb n="22" facs="tcp:59913:12"/>alledges in relation to the <hi>Acids</hi> of <hi>Bitters,</hi> is nothing to the Matter.</p>
+            <p>
+               <hi>Guaicum, Saſſafras,</hi> and <hi>Bitters,</hi> you aſ<g ref="char:EOLhyphen"/>ſert to be invelop'd <hi>Acids;</hi> but pray if it be in you Nature to think, is it by the <hi>Acids</hi> in theſe, the Scurvy, Inflammatory, and Venereal Diſtempers are cur'd, or by their <hi>Terebinthinate</hi> and <hi>Balſamick</hi> Par<g ref="char:EOLhyphen"/>ticles.</p>
+            <p>To affirm the former, you may with the ſame parity of Reaſon affirm, <hi>Mercu<g ref="char:EOLhyphen"/>rius Dulcis</hi> not by its Saline Particles makes that Alteration in the Maſs of Blood, which no Man I ſuppoſe will Aſſert that underſtands the Nature of Sublimate; but indeed the Saline Particles being ſheath'd in the Mercurial ones, they by that means become a ſafe Medicine, and by their obtunded Points may help to incide the Viſcid Humours, and by that means make room for the Mercurial Particles united with them; but then the Cure is not to be attributed to the <hi>Acids</hi> as ſuch, but the <hi>Alkalious</hi> Particles conjoyn'd: So that if it is this you mean by your inve<g ref="char:EOLhyphen"/>lop'd <hi>Acids,</hi> you may as well tell me a
+<pb n="23" facs="tcp:59913:12"/>Wound may be as eaſily made by the Sword in the Scabbard, as what Cures you attributed to invelop'd <hi>Acids,</hi> were effected by their <hi>A<g ref="char:EOLhyphen"/>cidity,</hi> but indeed quite contrary by their <hi>Bal<g ref="char:EOLhyphen"/>ſamick</hi> Particles.</p>
+            <p>Pray, Sir, in <hi>Diarthoea's,</hi> where a Perſon in Twenty Four hours, will ſometimes haven an Hundred Stools, with intolerable Gripes, and the Faeces frequently clear, green, or viſcid; I would gladly know whether thoſe Humours are more highly ſaturated with <hi>Acids</hi> or <hi>Al<g ref="char:EOLhyphen"/>kalies.</hi> If with the latter, how comes it to paſs, that in the <hi>Weſt-Indies,</hi> where that Di<g ref="char:EOLhyphen"/>ſtemper is moſt frequent, Chalk is found to be a certain Specifick? In the like Caſe, the Ho<g ref="char:EOLhyphen"/>nourable Mr. <hi>Boyle,</hi> highly applauds <hi>Lapis Ca<g ref="char:EOLhyphen"/>laminaris,</hi> which is a moſt Potent <hi>Alkali.</hi> Now in theſe Caſes were the Blood ſo highly ſatu<g ref="char:EOLhyphen"/>rated with <hi>Alkalies</hi> as you mention, the giving of theſe wou'd be only to add Oyl to a Flame, and raiſe the Diſtemper the higher; but the quite contrary Effects are found from them: Wherefore once more ſcratch your Abortive Noddle, and give a full Anſwer to theſe two Inſtances.</p>
+            <p>What Phyſician of Note ever rejected the prudent uſe <hi>Acids?</hi> But what makes that to Illuſtrate our Hypotheſis? Were the Cures perfected by <hi>Acids?</hi> If not, as I'm ſure they were not, what you urge is impertinent.</p>
+            <q>
+               <pb n="24" facs="tcp:59913:13"/>
+               <bibl>
+                  <hi>Pag.</hi> 86, 86.</bibl> 
+               <hi>Bittern</hi> is the moſt Corroding fixt <hi>Alkali</hi> in Nature.</q>
+            <p>Under Favour, Sir, you are miſtaken, for were it ſo great an <hi>Alkali,</hi> it wou'd ferment with any <hi>Acid,</hi> but will not with any but Oyl of Vitriol; and if ſo, it is not ſo great an <hi>Al<g ref="char:EOLhyphen"/>kali</hi> as you make it. Till you Anſwer the Ar<g ref="char:EOLhyphen"/>guments alledg'd by Dr. <hi>Coward</hi> and my ſelf againſt you, for my part, I think not my ſelf oblig'd to take any further notice of your un<g ref="char:EOLhyphen"/>digeſted Scribble, but to give a full and clear Anſwer to thoſe Arguments, Challenge you and your whole Party, otherwiſe I think it much ſafer to Practice upon Eſtabliſh'd Principles, than the Enthuſiaſtick Notions of a Rambling Empirick.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sir, with a little loſs of Time, I have given you a Reply to your laſt Performances, and tremble to think of your deſigned Treatiſe of Fevers; you have had already ſufficient Revenge upon the Think<g ref="char:EOLhyphen"/>ing part of Mankind: VVherefore, good Sir, Murder us not afreſh, but if you have any Grains of Com<g ref="char:EOLhyphen"/>paſſion, ſtop your Hand, and as you are Stout, be Merciful, leſt by your Erecting theſe Caſtles in the Air, you give the VVorld too juſt Reaſon to wiſh the ſame Puniſhment may be inflicted upon you, as one of the <hi>Ruſſian</hi> Emperors did upon and Engi<g ref="char:EOLhyphen"/>neer, who becauſe he had built ſuch an awkward Fortreſs, order'd both his Eyes to be pull'd out, that neither he himſelf might make, nor direct others to do the like.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
